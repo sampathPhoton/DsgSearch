@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">GolfGalaxy</string>
-
-    // End Points for API interaction
-    <string name="search_description">Search Golf Galaxy Goods</string>
-    <string name="search_input_hint">Search</string>
-</resources>
