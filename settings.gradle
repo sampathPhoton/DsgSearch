@@ -1,7 +1,2 @@
-include ':environment'
-include ':search'
-include ':theme'
-include ':localisation'
-include ':network'
-include ':app'
-rootProject.name = "GolfGalaxy"
+include 'client'
+include 'server'

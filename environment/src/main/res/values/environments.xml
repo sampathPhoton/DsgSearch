@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gg_suggest_base_url">https://prod-catalog-autosuggest-api.dickssportinggoods.com</string>
-    <string name="gg_suggest_end_point">v1/suggest/15108</string>
-</resources>
